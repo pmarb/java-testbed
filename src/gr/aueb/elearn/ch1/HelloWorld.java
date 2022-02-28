@@ -1,7 +1,7 @@
 package gr.aueb.elearn.ch1;
 
 /*
- * Prints on the screen the phrase "Hello World"
+ * Prints on the screen the phrase "Hello World".
  *
  * @author M. Binia
  * @version 0.1
